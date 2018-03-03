@@ -1,0 +1,18 @@
+.breaking_head{background: url("images/back.gif") no-repeat scroll right 0 #FF0000;
+left: 0;
+padding: 5px 40px 10px 6px;
+position: absolute;
+z-index: 999999999;
+font-family: solaimanlipi;
+color: #fff;
+font-size: 20px;}
+
+.breaking_news_box a:hover{color: #02FF57 !important;}
+
+#saiful_breaking_news a {
+background: url("../images/dot.png") 0px 6px no-repeat;
+color: #fff;
+font-size: 16px;
+padding-left: 16px;
+margin-left: 16px;
+}
